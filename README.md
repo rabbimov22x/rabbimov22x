@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I’m Samandar (Sam) Rabbimov
 
-<!--
-**rabbimov22x/rabbimov22x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science major with a minor in Math at CUNY Baruch College in NYC, NY. I love tackling a new challenge and working in a team! Feel free to reach out if you want to collaborate!
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- **Languages**: Python, Java, JavaScript, Racket, Typescript, SQLJavaScript, 
+- **Libraries**: Pandas, NumPy, scikit-learn, PuLP, PyTorch, Matplotlib, JUnit, NodeJS, ExcelJS, React, MongoDB 
+- **Tools and Software**: Git, GitHub, Visual Studio Code,
+- **Operating Systems**: Linux, Windows, macOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Interests
+Talk to me about...
+- Murim Webnovels
+- Real Madrid
+- Any thing about martial arts 
+- Making Videos
+<hr>
+
+“Opportunites multiply as they are siezed” - Sun Tzu 
