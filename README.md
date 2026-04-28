@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sam [Samandar Rabbimov] 
 
-I'm a Computer Science major with a minor in Math at CUNY Baruch College in NYC, NY. 
+I'm a Computer Science major with a minor in Math at CUNY Baruch College in NYC, NY. <br>
 I love tackling a new challenge and working in a team! Feel free to reach out if you want to collaborate!
 
 ### 🚀 Skills
