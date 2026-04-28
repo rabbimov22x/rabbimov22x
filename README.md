@@ -6,7 +6,6 @@ I love tackling a new challenge and working in a team! Feel free to reach out if
 ### 🚀 Skills
 - **Languages**: Python, Java, JavaScript, Racket, Typescript, SQLJavaScript, 
 - **Libraries**: Pandas, NumPy, scikit-learn, PuLP, PyTorch, Matplotlib, JUnit, NodeJS, ExcelJS, React, MongoDB 
-- **Tools and Software**: Git, GitHub, Visual Studio Code,
 - **Operating Systems**: Linux, Windows, macOS
 
 ### 🎯 Interests
